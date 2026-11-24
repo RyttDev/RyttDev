@@ -50,5 +50,5 @@ An interactive quiz platform with questions, answer selection and score calculat
 ## 📫 Contact
 
 - GitHub: [@RyttDev](https://github.com/RyttDev)
-- LinkedIn: [Add your LinkedIn profile link](#)
+  - LinkedIn: [https://www.linkedin.com/in/muhammad-harith-a0b88a451/](#)
 - Email: [muhammadharithmiswadi@gmail.com](#)
